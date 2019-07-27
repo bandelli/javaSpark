@@ -1,0 +1,1 @@
+Resource data can be found under starting workspace - we've removed here to save space.

@@ -1,4 +1,4 @@
-package com.virtualpairprogrammers;
+package com.javaspark.estudos;
 
 import org.apache.spark.SparkConf;
 import org.apache.spark.api.java.JavaRDD;

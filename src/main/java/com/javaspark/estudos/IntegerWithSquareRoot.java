@@ -1,4 +1,4 @@
-package com.virtualpairprogrammers;
+package com.javaspark.estudos;
 
 public class IntegerWithSquareRoot {
 

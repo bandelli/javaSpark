@@ -1,4 +1,4 @@
-package com.virtualpairprogrammers;
+package com.javaspark.estudos;
 
 import com.google.common.collect.Iterables;
 import org.apache.spark.SparkConf;

@@ -1,4 +1,4 @@
-package com.virtualpairprogrammers;
+package com.javaspark.estudos;
 
 import org.apache.log4j.Level;
 import org.apache.log4j.Logger;

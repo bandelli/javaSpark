@@ -1,4 +1,4 @@
-package com.virtualpairprogrammers;
+package com.javaspark.estudos;
 
 import java.util.ArrayList;
 import java.util.Arrays;
